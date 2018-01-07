@@ -9,6 +9,7 @@
         "sourceMap": true,
         "target": "es6"
     },
+    "rootDirs": ["./src, ../common"],
     "include": [
         "src/**/*"
     ],
